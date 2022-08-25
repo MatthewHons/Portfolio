@@ -29,6 +29,7 @@
 
 .thumbnail .thumbnail-content {
   position: relative;
+  height: 8rem;
   padding: 20px;
   background: white;
   min-height: 120px;
